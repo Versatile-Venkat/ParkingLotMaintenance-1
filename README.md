@@ -5,7 +5,9 @@ This is an Automated Parking lot manager which is built using python. It helps t
 This takes the commands from the input file and processes line by line.
 
 See the input.txt file to get the format for particular commands
-Allowed commands
+<br>
+<br>
+<b>Allowed commands</b>
 <br>
 1 Create_parking_lot  (To create a parking lot of the given size (can be done only once)) 
 <br>
