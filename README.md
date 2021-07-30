@@ -4,6 +4,7 @@ An Automated solution to make parkings and parking management fast,easy and accu
 This is an Automated Parking lot manager which is built using python. It helps to park vehicles in the nearest available slots and also helps the management get details about the parking lot at any instance of time.
 This takes the commands from the input file and processes line by line.
 
+See the input.txt file to get the format for particular commands
 Allowed commands
 <br>
 1 Create_parking_lot  (To create a parking lot of the given size (can be done only once)) 
@@ -18,5 +19,8 @@ Allowed commands
 <br>
 6 Leave  (empties the slot)
 <br>
+<br>
+
+Load all the commands in the input file and then start the execution
 <br>
 Use only the commands which are allowed to have a smooth administration. Happy parking :)
